@@ -10,6 +10,7 @@ In preparation for the test, I set a timer for 30 minutes, but couldn't decide w
 
 
 The project:
+
 So here's what I did. I copied and pasted the list of all prompts into a text file on java. I did this separately for the issue and argument prompts. Then I realized that every single prompt had 2-3 paragraphs and the last paragaph of the prompt ALWAYS started with the word "Write". Then I could use a scanner on the text files in order to store each one in a list and then randomly choose from that list. In the 30 minutes, I did not write an essay, but I write code in order to give me a random essay to write about. Then the 30 minutes I patched up the code for STYLE purposes. To make it look nice. I also made another method that randomly generates a sublist of topics with no repeats.
 
 
